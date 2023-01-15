@@ -2,6 +2,17 @@
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
 
+
+
+![krypto_jobs · Streamlit (2)](https://user-images.githubusercontent.com/110307714/212565830-08122156-3d6c-4ac2-9ecc-bf8daebbeae3.png)
+
+
+![Ganache 1_15_2023 3_28_43 PM](https://user-images.githubusercontent.com/110307714/212565849-3fbab4f1-0e92-47d2-b052-ec7216886c38.png)
+
+
+
+![Ganache 1_15_2023 3_28_02 PM](https://user-images.githubusercontent.com/110307714/212565861-0fafc1f8-10b3-4f46-b7df-a2008d9e1681.png)
+
 ### Background
 
 You work at a startup that is building a new and disruptive platform called KryptoJobs2Go. KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As KryptoJobs2Go’s lead developer, you have been tasked with integrating the Ethereum blockchain network into the application in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
